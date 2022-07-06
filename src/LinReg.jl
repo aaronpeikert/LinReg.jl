@@ -9,6 +9,8 @@ module LinReg
 
     - `x`: the new oberservations
     - `β`: the beta weights
+
+    HI
     """
     predict(x, β) = x*β
 end
