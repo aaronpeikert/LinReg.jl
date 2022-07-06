@@ -1,0 +1,13 @@
+name = "LinReg"
+uuid = "d85599d1-8cf3-4eab-9554-7d454a7e75dc"
+authors = ["Aaron Peikert", "Maximilian S. Ernst", "Nicklas Hafiz"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
